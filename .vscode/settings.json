@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    
+    "python:pythonPath":"/Users/computador/Desktop/Marcos Vinicius/Data Science/Python-Pandas/venv_zup/Scripts"
+    
+}
